@@ -569,8 +569,14 @@ kubectl top nodes - View resource usage for nodes.
 kubectl top pods - View resource usage for pods.
 These commands should help you diagnose and debug various issues within your Kubernetes cluster.
 
-# 
+# GIT BRANCHING STRTEGY #  20/03/2024 (ABHISHEK)
+1.ONE OF THE MAJOR CONCEPT 
+2.DELIVER PROD TO CUSTOMER EVERY ONE MONTH OR 15 DAYS YOU NEED A CLEAR BRANCHING STRATEGY 
+3.KUBERNETES IS A OPEN SOURCE PRJ IT HAVING 3300 CONTRIBUTORS 
+# BRANCH== seperation==calculation(add,subs,division)
 
+# by default master/main ==(create new branch v2 branch changes done delete this branch )
+# eg : uber==cabs== customers ==bikes==
 
 
 
